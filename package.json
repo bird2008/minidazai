@@ -1,0 +1,30 @@
+{
+  "name": "minidazai",
+  "version": "1.0.0",
+  "description": "bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node index.js",
+    "dev:watch": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bird2008/minidazai.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "Bartosz Orzechowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bird2008/minidazai/issues"
+  },
+  "homepage": "https://github.com/bird2008/minidazai#readme"
+}
